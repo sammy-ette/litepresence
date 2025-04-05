@@ -12,6 +12,26 @@
           "arch": "x86_64-linux",
           "checksum": "f7103b2e3faea3df94bdc750b3724bbde64059c3710bc47d6195ad2d42bed398",
           "url": "https://github.com/sammy-ette/litepresence/releases/download/v0.3.0/litepresence-v0.3.0-linux-amd64.tar.gz"
+        },
+        {
+          "arch": "aarch64-linux",
+          "checksum": "24ba7bd1e46bb7dfa829afb55ab4de49e985666e36cd60ccf9f662bdd2016ed6",
+          "url": "https://github.com/sammy-ette/litepresence/releases/download/v0.3.0/litepresence-v0.3.0-linux-arm64.tar.gz"
+        },
+        {
+          "arch": "x86_64-darwin",
+          "checksum": "b818cc554a2477650c92f1cae1d6db5ed75881f31221bcb99aa125632e81ea59",
+          "url": "https://github.com/sammy-ette/litepresence/releases/download/v0.3.0/litepresence-v0.3.0-darwin-amd64.tar.gz"
+        },
+        {
+          "arch": "aarch64-darwin",
+          "checksum": "f0c14f08a9c46581d701d3aeabebca673823819f269685ef95dfdba7cf11fb56",
+          "url": "https://github.com/sammy-ette/litepresence/releases/download/v0.3.0/litepresence-v0.3.0-darwin-arm64.tar.gz"
+        },
+        {
+          "arch": "x86_64-windows",
+          "checksum": "882e5bb7060fff2f13c2901c7190e2567784e6c899fdba5d5c4abc101e8e2f39",
+          "url": "https://github.com/sammy-ette/litepresence/releases/download/v0.3.0/litepresence-v0.3.0-windows-amd64.zip"
         }
       ]
     }
